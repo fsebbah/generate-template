@@ -1,1 +1,3 @@
+.claude
 .venv
+.claude/settings.local.json
