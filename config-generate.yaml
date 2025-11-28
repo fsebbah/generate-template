@@ -1,0 +1,95 @@
+presentation:
+  title: Diagnostic BMD²
+  subtitle: Fromagerie Tyrode
+  author: Générateur BMD²
+  width_inches: 13.333
+  height_inches: 7.5
+fonts:
+  title: Georgia
+  heading: Arial
+  body: Arial
+font_sizes:
+  header_subtitle: 11
+  header_title: 22
+  block_title: 11
+  block_body: 10
+  block_body_small: 9
+colors:
+  primary: 1F4E79
+  primary_light: 2E75B6
+  header_text: FFFFFF
+  header_subtitle: B4D7F0
+  text_dark: '333333'
+  contexte:
+    bg: F5F5F5
+    border: 1F4E79
+    title: 1F4E79
+  question:
+    bg: FFF8E1
+    border: E65100
+    title: E65100
+  maturite:
+    bg: E3F2FD
+    border: 1565C0
+    title: 1565C0
+  posture:
+    bg: FFF3E0
+    border: E65100
+    title: E65100
+  complexite:
+    bg: FCE4EC
+    border: C2185B
+    title: C2185B
+  axes:
+    bg: F3E5F5
+    border: 7B1FA2
+    title: 7B1FA2
+  recommandation:
+    bg: E8F5E9
+    border: 2E7D32
+    title: 2E7D32
+  jalon:
+    bg: ECEFF1
+    border: 455A64
+    title: 455A64
+layout:
+  margin_left: 0.4
+  margin_right: 0.4
+  margin_top: 0.15
+  header_height: 0.95
+  content_padding_top: 0.2
+  content_padding_bottom: 0.3
+  column_gap: 0.25
+  block_gap: 0.12
+  block_padding: 0.12
+  border_width: 4
+  left_column_ratio: 0.38
+text_limits:
+  contexte: 350
+  question: 220
+  dimension_few: 320
+  dimension_medium: 250
+  dimension_many: 200
+title_keywords:
+  effectuation: Posture entrepreneuriale (effectuation)
+  causale: Logique causale vs effectuelle
+  maturité digitale MIT: Grille de maturité MIT
+  maturité digitale: Maturité digitale
+  risques: Analyse des risques
+  complexité opérationnelle: Complexité opérationnelle
+  complexité organisationnelle: Complexité organisationnelle
+  DSIFAT: Dispositif DSIFAT
+  Découverte: 'Jalon 1 : Découverte'
+  Intégration: 'Jalon 3 : Intégration'
+  Formation: 'Jalon 4 : Formation'
+  lockers: Lockers réfrigérés
+  dégustations: Dégustations événementielles
+  site internet: Amélioration du site web
+  jeux concours: Animation communautaire
+  résistance au changement: Accompagnement du changement
+  synthèse: Synthèse BMD² globale
+  expérience client: Expérience client BMD²
+  data: Analyse data BMD²
+  objectifs: Objectifs et axes BMD²
+  tendance: Maturité digitale dynamique
+  BMD²: Diagnostic BMD²
